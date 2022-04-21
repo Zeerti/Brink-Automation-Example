@@ -1,0 +1,19 @@
+{
+    "pages": {
+        "admin1": {
+            "url": "https://admin.brinkpos.net",
+            "username": "admin",
+            "password": "pAsSwOrD_gOeS_hErE"
+        },
+        "admin2": {
+            "url": "https://admin2.brinkpos.net",
+            "username": "admin",
+            "password": "pAsSwOrD_gOeS_hErE"
+        },
+        "admin3": {
+            "url": "https://admin3.brinkpos.net",
+            "username": "admin",
+            "password": "pAsSwOrD_gOeS_hErE"
+        }
+    }
+}
